@@ -12,7 +12,7 @@
         </ion-toolbar>
       </ion-header>
 
-      <ExploreContainer name="Tab 2 page" />
+      <button type="button" @click="$router.push('/detail')">Go to DetailPage</button>
     </ion-content>
   </ion-page>
 </template>
