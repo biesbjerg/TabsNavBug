@@ -1,0 +1,7 @@
+{
+  "name": "TabsNavBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
